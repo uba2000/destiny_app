@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ## What is Destiny App About ❓
 
 An app that allows you choose your own adventure like Bandersnatch.
+
+![Finished App](https://github.com/uba2000/destiny_app/blob/main/blob/destiny-demo.gif)
